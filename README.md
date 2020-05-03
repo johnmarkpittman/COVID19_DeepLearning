@@ -12,7 +12,7 @@ This folder was used to scrape the below sources and gather needed data
 3. city_count.csv: manually created to handle city/county discrepancies between above two files
 4. us_county_sociohealth_data.csv: pulled from github page: https://www.kaggle.com/johnjdavisiv/us-counties-covid19-weather-sociohealth-data
 
-mergedata.ipynb: Combines the above four data sources into a final.csv for the RNN model
+mergedata.ipynb: Combines the above four data sources into a \textbf{final.csv} for the RNN model
 
 ### RNN_Model.ipnyb
 
