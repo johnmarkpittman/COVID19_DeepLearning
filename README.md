@@ -18,10 +18,10 @@ mergedata.ipynb: Combines the above four data sources into a **final.csv** for t
 
 This is our primary model with the below architecture. It produces an RNN model that looks at the next 19 days to predict if today has a stay at home for a given county. This file also contains our model performance evaluation.
 
-![RNN Model](images/RNN_Model.png)
+<img src="/images/RNN_Model.png" height="300px" width="150px">
 
 ### RNN_Model_extended.ipnyb
 
 This model includes demographic information with the below architecture. Similar to the RNN_Model, it looks at the next 19 days to predict if today has a stay at home for a given county.
 
-![RNN Model 2](images/RNN_Model_2.png)
+<img src="/images/RNN_Model_2.png" height="300px" width="300px">
