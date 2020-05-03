@@ -1,0 +1,176 @@
+state,area,population,date,type
+California,ALL,39.6 million people,2020-03-19,Stay at home
+Connecticut,ALL,3.6 million people,2020-03-23,Stay at home
+Delaware,ALL,"973,000 people",2020-03-24,Shelter in place
+Florida,Miami Beach,"92,000 people",2020-03-24,Stay at home
+Illinois,ALL,12.7 million people,2020-03-21,Stay at home
+Indiana,ALL,6.7 million people,2020-03-24,Stay at home
+Louisiana,ALL,4.6 million people,2020-03-23,Stay at home
+Massachusetts,ALL,6.9 million people,2020-03-24,Stay at home advisory
+Michigan,ALL,10 million people,2020-03-24,Stay at home
+Missouri,St. Louis County,1 million people,2020-03-23,Stay at home
+Missouri,Kansas City,"492,000 people",2020-03-24,Stay at home
+New Jersey,ALL,8.9 million people,2020-03-21,Stay at home
+New Mexico,ALL,2.1 million people,2020-03-24,Stay at home
+New York,ALL,19.5 million people,2020-03-22,Stay at home
+Ohio,ALL,11.7 million people,2020-03-23,Stay at home
+Oregon,ALL,4.2 million people,2020-03-23,Stay at home
+Pennsylvania,Philadelphia County,1.6 million people,2020-03-23,Stay at home
+Pennsylvania,Allegheny County,1.2 million people,2020-03-23,Stay at home
+Pennsylvania,Bucks County,"628,000 people",2020-03-23,Stay at home
+Pennsylvania,Chester County,"522,000 people",2020-03-23,Stay at home
+Pennsylvania,Delaware County,"565,000 people",2020-03-23,Stay at home
+Pennsylvania,Monroe County,"170,000 people",2020-03-23,Stay at home
+Pennsylvania,Montgomery County,"829,000 people",2020-03-23,Stay at home
+Texas,Dallas County,2.6 million people,2020-03-23,Shelter in place
+Texas,San Antonio,1.5 million people,2020-03-23,Stay at home
+Washington,ALL,7.5 million people,2020-03-23,Stay at home
+West Virginia,ALL,1.8 million people,2020-03-24,Stay at home
+Alaska,Anchorage,"292,000 people",2020-03-22,Stay at home
+Colorado,Boulder,"107,000 people",2020-03-24,Stay at home
+Colorado,Denver,"716,000 people",2020-03-24,Stay at home
+Colorado,Archuleta County,"14,000 people",2020-03-23,Stay at home
+Colorado,La Plata County,"56,000 people",2020-03-23,Stay at home
+Colorado,Pitkin County,"18,000 people",2020-03-23,Stay at home
+Florida,Miami,"471,000 people",2020-03-24,Shelter in place
+Florida,Alachua County,"270,000 people",2020-03-24,Stay at home
+Florida,Leon County,"293,000 people",2020-03-25,Stay at home
+Florida,Orange County,1.4 million people,2020-03-26,Stay at home
+Georgia,Atlanta,"498,000 people",2020-03-24,Stay at home
+Georgia,Savannah,"146,000 people",2020-03-24,Shelter in place
+Hawaii,ALL,1.4 million people,2020-03-25,Stay at home
+Idaho,Blaine County,"23,000 people",2020-03-20,Shelter in place
+Kansas,Douglas County,"121,000 people",2020-03-24,Stay at home
+Kansas,Johnson County,"598,000 people",2020-03-24,Stay at home
+Kansas,Leavenworth County,"81,000 people",2020-03-24,Stay at home
+Kansas,Sedgwick County,"514,000 people",2020-03-25,Stay at home
+Kansas,Wyandotte County,"165,000 people",2020-03-24,Stay at home
+Mississippi,Oxford,"25,000 people",2020-03-22,Stay at home
+Missouri,St. Louis,"303,000 people",2020-03-23,Stay at home
+Missouri,Clay County,"246,000 people",2020-03-24,Stay at home
+North Carolina,Mecklenburg County,1.1 million people,2020-03-26,Stay at home
+Pennsylvania,Erie County,"272,000 people",2020-03-24,Stay at home
+Tennessee,Franklin,"81,000 people",2020-03-25,Stay at home
+Tennessee,Memphis,"651,000 people",2020-03-24,Stay at home
+Tennessee,Davidson County,"693,000 people",2020-03-23,Stay at home
+Texas,Austin,"964,000 people",2020-03-24,Stay at home
+Texas,Bexar County,2 million people,2020-03-24,Stay at home
+Texas,Collin County,1 million people,2020-03-24,Stay at home
+Texas,El Paso County,"841,000 people",2020-03-24,Stay at home
+Texas,Harris County,4.7 million people,2020-03-24,Stay at home
+Texas,Hunt County,"96,000 people",2020-03-24,Shelter in place
+Texas,Tarrant County,2.1 million people,2020-03-24,Stay at home
+Vermont,ALL,"626,000 people",2020-03-25,Stay at home
+Wisconsin,ALL,5.8 million people,2020-03-25,Stay at home
+Alabama,Birmingham,"210,000 people",2020-03-24,Shelter in place
+Colorado,ALL,5.7 million people,2020-03-26,Stay at home
+Florida,Pinellas County,"975,000 people",2020-03-26,Stay at home
+Georgia,Blakely,"5,000 people",2020-03-24,Shelter in place
+Georgia,Carrollton,"26,000 people",2020-03-25,Shelter in place
+Idaho,ALL,1.8 million people,2020-03-25,Stay at home
+Maine,Portland,"66,000 people",2020-03-25,Stay at home
+Minnesota,ALL,5.6 million people,2020-03-27,Stay at home
+Missouri,Jackson County,"700,000 people",2020-03-24,Stay at home
+North Carolina,Durham,"274,000 people",2020-03-26,Stay at home
+Oklahoma,Norman,"123,000 people",2020-03-25,Stay at home
+Pennsylvania,Lehigh County,"368,000 people",2020-03-25,Stay at home
+Pennsylvania,Northampton County,"305,000 people",2020-03-25,Stay at home
+South Carolina,Charleston,"136,000 people",2020-03-26,Stay at home
+Tennessee,Shelby County,"936,000 people",2020-03-24,Shelter in place
+Texas,Bell County,"356,000 people",2020-03-23,Shelter in place
+Texas,McLennan County,"255,000 people",2020-03-23,Shelter in place
+Texas,Robertson County,"17,000 people",2020-03-25,Shelter in place
+Texas,Travis County,1.2 million people,2020-03-24,Stay at home
+Texas,Williamson County,"567,000 people",2020-03-24,Stay at home
+Florida,Broward County,2 million people,2020-03-27,Shelter in place
+Florida,Hillsborough County,1.4 million people,2020-03-27,Safer at home
+Florida,Miami-Dade County,2.8 million people,2020-03-25,Stay at home
+Florida,Osceola County,"368,000 people",2020-03-26,Stay at home
+Georgia,Athens-Clarke County,"126,000 people",2020-03-20,Shelter in place
+Kansas,Doniphan County,"8,000 people",2020-03-26,Stay at home
+Kansas,Miami County,"34,000 people",2020-03-25,Stay at home
+Kansas,Sumner County,"23,000 people",2020-03-27,Stay at home
+Missouri,Boone County,"180,000 people",2020-03-25,Stay at home
+Missouri,Cass County,"105,000 people",2020-03-24,Stay at home
+Missouri,Platte County,"103,000 people",2020-03-24,Shelter in place
+New Hampshire,ALL,1.4 million people,2020-03-27,Stay at home
+North Carolina,Clemmons,"21,000 people",2020-03-27,Shelter in place
+North Carolina,Winston-Salem,"246,000 people",2020-03-27,Stay at home
+North Carolina,Buncombe County,"259,000 people",2020-03-26,Stay at home
+North Carolina,Guilford County,"534,000 people",2020-03-27,Stay at home
+North Carolina,Madison County,"22,000 people",2020-03-23,Shelter in place
+North Carolina,Orange County,"146,000 people",2020-03-27,Stay at home
+North Carolina,Pitt County,"180,000 people",2020-03-25,Stay at home
+North Carolina,Wake County,1.1 million people,2020-03-27,Stay at home
+Puerto Rico,ALL,3.2 million people,2020-03-15,Curfew
+Tennessee,Knox County,"465,000 people",2020-03-24,Stay at home
+Texas,Cameron County,"424,000 people",2020-03-25,Shelter in place
+Texas,Denton County,"859,000 people",2020-03-25,Stay at home
+Texas,Galveston County,"338,000 people",2020-03-24,Stay at home
+Texas,Gregg County,"124,000 people",2020-03-26,Shelter in place
+Texas,Hays County,"223,000 people",2020-03-26,Stay at home
+Texas,Nueces County,"362,000 people",2020-03-26,Stay at home
+Texas,Scurry County,"17,000 people",2020-03-27,Shelter in place
+Texas,Willacy County,"22,000 people",2020-03-26,Shelter in place
+Utah,Summit County,"42,000 people",2020-03-27,Stay at home
+Georgia,Dougherty County,"91,000 people",2020-03-21,Shelter in place
+Kentucky,ALL,4.5 million people,2020-03-26,Healthy at home
+Missouri,St. Joseph,"76,000 people",2020-03-24,Shelter in place
+Missouri,Cole County,"77,000 people",2020-03-23,Stay at home
+Missouri,Greene County,"292,000 people",2020-03-26,Stay at home
+Missouri,Jefferson County,"224,000 people",2020-03-24,Stay at home
+Missouri,Randolph County,"25,000 people",2020-03-25,Stay at home
+Missouri,Ray County,"23,000 people",2020-03-25,Stay at home
+Montana,ALL,1.1 million people,2020-03-28,Stay at home
+North Carolina,ALL,10.4 million people,2020-03-30,Stay at home
+Texas,Brazoria County,"370,000 people",2020-03-26,Stay at home
+Texas,Chambers County,"42,000 people",2020-03-24,Stay at home
+Texas,Ellis County,"179,000 people",2020-03-25,Stay at home
+Texas,Fort Bend County,"788,000 people",2020-03-25,Stay at home
+Texas,Hildalgo County,"866,000 people",2020-03-26,Shelter at home
+Texas,Kaufman County,"129,000 people",2020-03-25,Shelter in place
+Texas,Liberty County,"86,000 people",2020-03-24,Stay at home
+Texas,Polk County,"50,000 people",2020-03-27,Stay at home
+Texas,Rockwall County,"101,000 people",2020-03-24,Stay at home
+Texas,San Jacinto County,"29,000 people",2020-03-25,Stay at home
+Texas,Starr County,"65,000 people",2020-03-25,Stay at home
+Kansas,ALL,2.9 million people,2020-03-30,Stay at home
+Alaska,ALL,"737,000 people",2020-03-28,Stay at home
+Arizona,ALL,7.2 million people,2020-03-31,Stay at home
+District of Columbia,ALL,"702,000 people",2020-04-01,Stay at home
+Florida,Palm Beach County,1.5 million people,2020-03-30,Stay at home
+Maryland,ALL,6 million people,2020-03-30,Stay at home
+Oklahoma,Oklahoma City,"649,000 people",2020-03-28,Shelter in place
+Oklahoma,Tulsa,"401,000 people",2020-03-28,Shelter in place
+Pennsylvania,Beaver County,"165,000 people",2020-03-28,Stay at home
+Pennsylvania,Berks County,"420,000 people",2020-03-27,Stay at home
+Pennsylvania,Butler County,"188,000 people",2020-03-27,Stay at home
+Pennsylvania,Centre County,"163,000 people",2020-03-28,Stay at home
+Pennsylvania,Lackawanna County,"211,000 people",2020-03-27,Stay at home
+Pennsylvania,Lancaster County,"544,000 people",2020-03-27,Stay at home
+Pennsylvania,Luzerne County,"318,000 people",2020-03-27,Stay at home
+Pennsylvania,Pike County,"56,000 people",2020-03-27,Stay at home
+Pennsylvania,Washington County,"207,000 people",2020-03-28,Stay at home
+Pennsylvania,Wayne County,"51,000 people",2020-03-27,Stay at home
+Pennsylvania,Westmoreland County,"351,000 people",2020-03-27,Stay at home
+Pennsylvania,York County,"448,000 people",2020-03-27,Stay at home
+Rhode Island,ALL,1.1 million people,2020-03-28,Stay at home
+South Carolina,Columbia,"133,000 people",2020-03-29,Stay at home
+Texas,Amarillo,"200,000 people",2020-03-30,Stay at home
+Texas,Nacogdoches County,"66,000 people",2020-03-30,Stay at home
+Texas,Smith County,"230,000 people",2020-03-27,Stay at home
+Utah,Salt Lake County,1.2 million people,2020-03-30,Stay at home
+Virginia,ALL,8.5 million people,2020-03-30,Stay at home
+Wyoming,Jackson,"10,000 people",2020-03-28,Stay at home
+Florida,ALL,21.5 million people,2020-04-03,Stay at home
+Georgia,ALL,10.6 million people,2020-04-03,Shelter in place
+Maine,ALL,1.3 million people,2020-04-02,Stay at home
+Mississippi,ALL,3 million people,2020-04-03,Shelter in place
+Nevada,ALL,3.1 million people,2020-04-01,Stay at home
+Oklahoma,Edmond,"93,000 people",2020-03-30,Shelter in place
+Oklahoma,Stillwater,"50,000 people",2020-03-30,Shelter in place
+Pennsylvania,ALL,12.8 million people,2020-04-01,Stay at home
+Tennessee,ALL,6.8 million people,2020-03-31,Stay at home
+Texas,Lubbock,"250,000 people",2020-03-29,Stay at home
+Texas,Harrison County,"67,000 people",2020-03-31,Shelter in place
+Texas,Wichita County,"132,000 people",2020-03-27,Shelter in place
