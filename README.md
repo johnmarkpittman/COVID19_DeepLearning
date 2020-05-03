@@ -12,12 +12,16 @@ This folder was used to scrape the below sources and gather needed data
 3. city_count.csv: manually created to handle city/county discrepancies between above two files
 4. us_county_sociohealth_data.csv: pulled from github page: https://www.kaggle.com/johnjdavisiv/us-counties-covid19-weather-sociohealth-data
 
-mergedata.ipynb: Combines the above four data sources into a \textbf{final.csv} for the RNN model
+mergedata.ipynb: Combines the above four data sources into a **final.csv** for the RNN model
 
 ### RNN_Model.ipnyb
 
-This is our primary model. It produces an RNN model that looks at the next 19 days to predict if today has a stay at home for a given county. This file also contains our model performance evaluation.
+This is our primary model with the below architecture. It produces an RNN model that looks at the next 19 days to predict if today has a stay at home for a given county. This file also contains our model performance evaluation.
+
+![RNN Model](https://github.com/wkdaniel3/COVID19_DeepLearning/tree/master/images/RNN_Model.png)
 
 ### RNN_Model_extended.ipnyb
 
 This model includes demographic information with the below architecture. Similar to the RNN_Model, it looks at the next 19 days to predict if today has a stay at home for a given county.
+
+![RNN Model 2](https://github.com/wkdaniel3/COVID19_DeepLearning/tree/master/images/RNN_Model_2.png)
